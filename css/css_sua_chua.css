@@ -1,0 +1,42 @@
+.breadcrumb{
+    width: 60%;
+    height: 30px;
+    margin-left: 9%;
+    margin-top: 10px;
+    display: flex;
+}
+.breadcrumb a{
+    text-decoration: none;
+    padding-right: 5px;
+    color: rgba(24, 24, 24, 0.767);
+    font-weight: bold;
+    font-size: 13px;
+}
+.breadcrumb i{
+    padding-left: 5px;
+    padding-right: 8px;
+    margin-top: 2px;
+}
+.bao-breadcrumb{
+    padding-right: 5px;
+}
+.bao-breadcrumb:hover a{
+    color: coral;
+    text-decoration: underline;
+}
+.tieu-de{
+    width: 9%;
+    margin-top: -6px;
+}
+.write{
+    width: 82%;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+.write h1{
+    margin-left: 22%;
+    font-size: 30px;
+}
+.write h2, h3, h4{
+    color: #FF9933;
+}
